@@ -1,16 +1,43 @@
-# whatsapp_clone
+# WhatsApp Desktop Clone  
+A desktop-style WhatsApp UI clone built using **Flutter**.  
+This project focuses on recreating the look and feel of WhatsApp Desktop, including layout structure, chat listing, message area, and UI interactions.
 
-A new Flutter project.
+### Status  
+**🚧 Project in Progress**  
+Started on **23rd November 2025**
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshot (Work in Progress)
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1440" height="900" alt="Screenshot 2025-11-23 at 5 06 23 PM" src="https://github.com/user-attachments/assets/a1daa62f-b7b8-43b7-9672-17f22e9d57aa" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (desktop)
+- **Dart**
+- **ScreenUtil** for responsive desktop scaling
+- **flutter_svg** for vector icons
+- Custom widgets for WhatsApp-like UI components
+
+---
+
+## 🎯 Current Features
+
+- WhatsApp-style three-panel desktop layout  
+- Sidebar with hover effects  
+- Search bar implementation  
+- Placeholder chat list and message area  
+
+---
+
+## 🚀 Planned Features
+
+- Chat list with dynamic data  
+- Real-time messaging UI  
+- Message bubbles (sent/received)  
+- Media previews (images, videos)  
+- Light/Dark theme  
+- Multi-device support (Windows, macOS, Linux)
