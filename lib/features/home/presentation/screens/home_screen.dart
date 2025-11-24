@@ -50,5 +50,7 @@ Widget returnListingSection(MainSection value) {
       return Container(alignment: Alignment.center, child: Text("Starred"));
     case MainSection.meta:
       return Container(alignment: Alignment.center, child: Text("Meta"));
+    case MainSection.settings:
+      return ChatListSection();
   }
 }
